@@ -1,7 +1,7 @@
-# CasualAIPlayground
-Experimenting with the latest tools in casual AI.
+# CausalAIPlayground
+Experimenting with the latest tools in causal AI.
 
-## Casual AI Packages
+## Causal AI Packages
 
 
 
